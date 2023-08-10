@@ -5,4 +5,4 @@ Aplicación del clima con buscador de ciudades. Utiliza REACT y la api de https:
 
 Saludos!
 
-Pueden encontrarla en el siguiente link: app{https://app-clima-octavene.netlify.app/}
+Pueden encontrarla en el siguiente link: app(https://app-clima-octavene.netlify.app/)
